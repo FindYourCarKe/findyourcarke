@@ -1,0 +1,21 @@
+{
+  "updated": "2026-11-17",
+  "cars": [
+    {
+      "id": "CAR-00000",
+      "sample": true,
+      "make": "Toyota",
+      "model": "Fielder",
+      "year": 2016,
+      "category": "Small car",
+      "price": 1450000,
+      "mileage": 98000,
+      "condition": "Small scratch on the rear bumper. Serviced every 5,000 km.",
+      "description": "This is a sample listing used to check the page layout. It is not a real car for sale.",
+      "photos": [],
+      "status": "Available",
+      "dateListed": "2026-11-17",
+      "dateSold": ""
+    }
+  ]
+}
